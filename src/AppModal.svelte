@@ -19,7 +19,7 @@
   export let popup: Array<PopupInfo>;
 </script>
 
-<div>
+<div class="h-100">
   <AppCard
     {title}
     {body}

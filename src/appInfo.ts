@@ -18,7 +18,7 @@ const apps: Array<AppInfo> = [
   },
   {
     title: "Resources",
-    body: "Share test resources with your team.",
+    body: "Share testing resources with your team.",
     modalTitle: "Pick Your Team",
     popup: [
       {
@@ -35,7 +35,7 @@ const apps: Array<AppInfo> = [
   },
   {
     title: "Absences",
-    body: "Inform management of an absence.",
+    body: "Inform management of an upcoming absence.",
     modalTitle: "Pick Your Team",
     popup: [
       {

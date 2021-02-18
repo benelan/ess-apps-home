@@ -5,7 +5,7 @@
 </script>
 
 <div
-  class="card h-100 shadow"
+  class="card w-100 h-100 shadow"
   on:click={clickFunction}
 >
   <div class="card-title">
