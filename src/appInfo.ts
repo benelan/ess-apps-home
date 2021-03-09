@@ -65,6 +65,11 @@ const apps: Array<AppInfo> = [
       },
     ],
   },
+  {
+    title: "Join the TS/PS Program",
+    body: "Submit a request or recommend an analyst to participate in the TS/PS Collaboration Program",
+    url: "https://forms.office.com/Pages/ResponsePage.aspx?id=yePmrh5xfEy9JwTyMH2yDdNrs7P98jpGujXzzo8SGOVUQ001Q0FNSUE2RTREUjFZV0Q1TzE5SU9BRS4u",
+  }
 ];
 
 export default apps;
