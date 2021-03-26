@@ -68,7 +68,7 @@ const apps: Array<AppInfo> = [
   {
     title: "Join the TS/PS Program",
     body: "Submit a request or recommend an analyst to participate in the TS/PS Collaboration Program",
-    url: "https://essapps.esri.com/tsps",
+    url: "https://essapps.esri.com/tsps/join",
   }
 ];
 
