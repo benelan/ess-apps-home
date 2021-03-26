@@ -24,12 +24,12 @@ const apps: Array<AppInfo> = [
       {
         popupTitle: "DaD Products",
         popupUrl:
-          "https://esriis.sharepoint.com/sites/AnalyticsRED1/SitePages/UnitResources.aspx",
+          "http://essapps.esri.com/resources/dadp",
       },
       {
         popupTitle: "Enterprise",
         popupUrl:
-          "https://esriis.sharepoint.com/sites/EnterpriseUnitTeam/SitePages/EnterpriseUnitResources/Home.aspx",
+          "https://essapps.esri.com/resources/enterprise",
       },
     ],
   },
@@ -41,34 +41,34 @@ const apps: Array<AppInfo> = [
       {
         popupTitle: "ArcGIS",
         popupUrl:
-          "https://esriis.sharepoint.com/teams/EsriSupportServicesDomestic/Absences/SitePages/essa/arcgis.aspx",
+          "http://essapps.esri.com/absences/arcgis",
       },
       {
         popupTitle: "DaD Products",
         popupUrl:
-          "https://esriis.sharepoint.com/teams/EsriSupportServicesDomestic/Absences/SitePages/essa/dpdm.aspx",
+          "http://essapps.esri.com/absences/dadp",
       },
       {
         popupTitle: "Desktop",
         popupUrl:
-          "https://esriis.sharepoint.com/teams/EsriSupportServicesDomestic/Absences/SitePages/essa/desktop.aspx",
+          "http://essapps.esri.com/absences/desktop",
       },
       {
         popupTitle: "Enterprise",
         popupUrl:
-          "https://esriis.sharepoint.com/teams/EsriSupportServicesDomestic/Absences/SitePages/essa/enterprise.aspx",
+          "https://essapps.esri.com/absences/enterprise",
       },
       {
         popupTitle: "Management",
         popupUrl:
-          "https://esriis.sharepoint.com/teams/EsriSupportServicesDomestic/AbsencesMgmt/SitePages/essam/Home.aspx",
+          "http://essapps.esri.com/absences/management",
       },
     ],
   },
   {
     title: "Join the TS/PS Program",
     body: "Submit a request or recommend an analyst to participate in the TS/PS Collaboration Program",
-    url: "https://forms.office.com/Pages/ResponsePage.aspx?id=yePmrh5xfEy9JwTyMH2yDdNrs7P98jpGujXzzo8SGOVUQ001Q0FNSUE2RTREUjFZV0Q1TzE5SU9BRS4u",
+    url: "https://essapps.esri.com/tsps",
   }
 ];
 
